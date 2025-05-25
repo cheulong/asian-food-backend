@@ -4,3 +4,5 @@ build
 .gitignore
 .env.*
 .git
+Dockerfile*
+docker-compose*
